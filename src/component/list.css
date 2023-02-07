@@ -1,0 +1,10 @@
+id {
+  height: 100px;
+}
+td {
+  font-size: large;
+  text-align: center;
+}
+th {
+  color:darkblue;
+}
